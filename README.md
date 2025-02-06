@@ -39,8 +39,3 @@ Yandex Music My Playlist: Провел анализ музыкальных пр�
 6. История выступлений на Ted-Talks (https://public.tableau.com/views/Ypracticum_DASHBORD/sheet4?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 7. Популярность направлений на Ted-Talks (https://public.tableau.com/views/Ypracticum_DASHBORD_17272737066330/2018-2021?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 8. Дашборд воронка продаж (https://datalens.yandex/vqmz6wmjxh92h?state=0658c3ec155)
-
-
-||ВОН||VON||VON||
-
-
