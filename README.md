@@ -11,42 +11,26 @@
 | [Исследование уровня потребительской лояльности](https://github.com/SamurYusupov/Reports-Researches/blob/main/%D0%B8%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F%20%D0%BF%D0%BE%D1%82%D1%80%D0%B5%D0%B1%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B9%20%D0%BB%D0%BE%D1%8F%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D0%B8.html) | HTML FILE (ПОКА НЕ ПРЕДСТАВИЛ В ОБЩЕМ ВИДЕ)                                    |                                                                                                |
 | [Yandex music my playlist](https://github.com/SamurYusupov/Reports-Researches/blob/main/Yandex_Music_My_Playlist.html)                                                                                                                                                                                                                                                                          | HTML FILE (ПОКА НЕ ПРЕДСТАВИЛ В ОБЩЕМ ВИДЕ)                                    | Проект в формате "По приколу", проанализировал мои прослушивания на сервисе Яндекс музыка      |
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+За весь период погружения в профессию я успел поработать с:
+- табличными данными;
+- JSON-объектами;
+- реляционными базами данных.
 
-1. С какими данными я работал?
-Объем данных: В моих проектах я работал с данными объемом от 1 000 до 10 000 строк. Например, в проекте по анализу заведений общественного питания я анализировал около 8 000 записей, а в исследовании кинопроката — около 5 000 записей.
-
-Источники данных: Данные поступали из различных источников, включая CSV-файлы, Excel-таблицы, API (например, данные с HH.ru для анализа вакансий) и базы данных.
-
-Структура данных: Я работал с табличными данными, JSON-объектами (например, при анализе плейлиста Yandex Music) и реляционными базами данных. Данные часто требовали предобработки: удаления дубликатов, обработки пропусков и преобразования форматов.
-
-2. Какие аналитические инструменты я применял?
-SQL: Использовал для работы с базами данных, выполнения сложных запросов и агрегации данных.
-
-Python: Активно применял библиотеки Pandas для обработки и анализа данных, NumPy для математических вычислений, а также Plotly, Matplotlib и Seaborn для визуализации. В проекте по анализу вакансий HH.ru использовал Scikit-learn для построения модели линейной регрессии.
-
-Tableau Public, Power BI, Yandex DataLens: Использовал для создания интерактивных дашбордов. Например, в проекте по аналитике продаж я разработал дашборд, который позволил отслеживать ключевые метрики продаж в реальном времени.
-
-Excel: Применял для первичного анализа данных и создания простых отчетов.
-
-3. Что я внедрял из аналитики?
-Yandex Music My Playlist: Провел анализ музыкальных предпочтений, выявил наиболее популярные жанры и артистов. На основе этого предложил рекомендации по улучшению плейлиста, что позволило увеличить вовлеченность пользователя (в моем случае — себя) на 20%.
-
-Анализ заведений общественного питания: Выявил зависимость среднего чека от расположения заведений. Результаты анализа помогли предложить оптимальные локации для открытия новых точек, что потенциально может увеличить прибыль на 15%.
-
-Аналитика продаж: Разработал дашборд, который позволил отслеживать динамику продаж и выявлять сезонные колебания. Это помогло оптимизировать складские запасы и сократить издержки на 10%.
-
-Исследование о кинопрокате: Проанализировал зависимость сборов фильмов от возрастного ограничения. Результаты исследования могут быть использованы для более точного прогнозирования кассовых сборов.
-
-Исследование уровня потребительской лояльности: Создал дашборд в Power BI, который позволил отслеживать ключевые метрики лояльности и выявлять проблемные зоны.
-
-Анализ вакансий HH.ru: Построил модель линейной регрессии для прогнозирования зарплат на основе имеющихся данных. Это помогло заполнить пропуски в данных и повысить точность анализа.
-
+Владею следующими инструментами:
+- Excel (формулы, функции, макросы);
+- SQL (базовые функции, оконные функции, все типы объединения таблиц);
+- Python (библиотеки Pandas, Numpy, Seaborn, Plotly, Matplotlib, Sklearn);
+- Power BI;
+- Tableau Public;
+- Yandex DataLens.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Дашборды и презентации Tableau Public:
-1. Аналитика продаж (https://public.tableau.com/views/_17366844520100/sheet18?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link )
-2. Описание группы сторонников (https://public.tableau.com/views/DASHBORD2_17284144396520/sheet24?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-3. Лояльность аудитории (https://public.tableau.com/views/DASHBORD2_17284141477000/sheet15?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link )
-4. Лояльность 2 (https://public.tableau.com/views/DASHBORD_17281560307570/sheet12?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link )
-5. Мой плейлист на Яндекс музыке (https://public.tableau.com/shared/MY89BNXYR?:display_count=n&:origin=viz_share_link )
-6. История выступлений на Ted-Talks (https://public.tableau.com/views/Ypracticum_DASHBORD/sheet4?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-7. Популярность направлений на Ted-Talks (https://public.tableau.com/views/Ypracticum_DASHBORD_17272737066330/2018-2021?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-8. Дашборд воронка продаж (https://datalens.yandex/vqmz6wmjxh92h?state=0658c3ec155)
+1. [Аналитика продаж](https://public.tableau.com/views/_17366844520100/sheet18?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link )
+2. [Описание группы сторонников](https://public.tableau.com/views/DASHBORD2_17284144396520/sheet24?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+3. [Лояльность аудитории](https://public.tableau.com/views/DASHBORD2_17284141477000/sheet15?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link )
+4. [Лояльность 2](https://public.tableau.com/views/DASHBORD_17281560307570/sheet12?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link )
+5. [Мой плейлист на Яндекс музыке](https://public.tableau.com/shared/MY89BNXYR?:display_count=n&:origin=viz_share_link )
+6. [История выступлений на Ted-Talks](https://public.tableau.com/views/Ypracticum_DASHBORD/sheet4?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+7. [Популярность направлений на Ted-Talks](https://public.tableau.com/views/Ypracticum_DASHBORD_17272737066330/2018-2021?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+8. [Дашборд воронка продаж](https://datalens.yandex/vqmz6wmjxh92h?state=0658c3ec155)
